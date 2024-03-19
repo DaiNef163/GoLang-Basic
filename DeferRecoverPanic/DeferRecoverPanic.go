@@ -6,7 +6,7 @@ func main() {
 	fmt.Println("Start")
 	panicker()
 	fmt.Println("End")
-	fmt
+	
 
 }
 

@@ -61,5 +61,5 @@ func main() {
 	fmt.Println(timX(arr, x))
 	sapxep(arr)
 	inmang(arr)
-	i
+	
 }
